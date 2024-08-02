@@ -1,0 +1,15 @@
+C:\Users\FP2402199\source\repos\test-teil2aufgabe2\test-teil2aufgabe2\bin\Debug\net5.0\test-teil2aufgabe2.exe
+C:\Users\FP2402199\source\repos\test-teil2aufgabe2\test-teil2aufgabe2\bin\Debug\net5.0\test-teil2aufgabe2.deps.json
+C:\Users\FP2402199\source\repos\test-teil2aufgabe2\test-teil2aufgabe2\bin\Debug\net5.0\test-teil2aufgabe2.runtimeconfig.json
+C:\Users\FP2402199\source\repos\test-teil2aufgabe2\test-teil2aufgabe2\bin\Debug\net5.0\test-teil2aufgabe2.runtimeconfig.dev.json
+C:\Users\FP2402199\source\repos\test-teil2aufgabe2\test-teil2aufgabe2\bin\Debug\net5.0\test-teil2aufgabe2.dll
+C:\Users\FP2402199\source\repos\test-teil2aufgabe2\test-teil2aufgabe2\bin\Debug\net5.0\test-teil2aufgabe2.pdb
+C:\Users\FP2402199\source\repos\test-teil2aufgabe2\test-teil2aufgabe2\obj\Debug\net5.0\test-teil2aufgabe2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FP2402199\source\repos\test-teil2aufgabe2\test-teil2aufgabe2\obj\Debug\net5.0\test-teil2aufgabe2.AssemblyInfoInputs.cache
+C:\Users\FP2402199\source\repos\test-teil2aufgabe2\test-teil2aufgabe2\obj\Debug\net5.0\test-teil2aufgabe2.AssemblyInfo.cs
+C:\Users\FP2402199\source\repos\test-teil2aufgabe2\test-teil2aufgabe2\obj\Debug\net5.0\test-teil2aufgabe2.csproj.CoreCompileInputs.cache
+C:\Users\FP2402199\source\repos\test-teil2aufgabe2\test-teil2aufgabe2\obj\Debug\net5.0\test-teil2aufgabe2.dll
+C:\Users\FP2402199\source\repos\test-teil2aufgabe2\test-teil2aufgabe2\obj\Debug\net5.0\refint\test-teil2aufgabe2.dll
+C:\Users\FP2402199\source\repos\test-teil2aufgabe2\test-teil2aufgabe2\obj\Debug\net5.0\test-teil2aufgabe2.pdb
+C:\Users\FP2402199\source\repos\test-teil2aufgabe2\test-teil2aufgabe2\obj\Debug\net5.0\test-teil2aufgabe2.genruntimeconfig.cache
+C:\Users\FP2402199\source\repos\test-teil2aufgabe2\test-teil2aufgabe2\obj\Debug\net5.0\ref\test-teil2aufgabe2.dll
